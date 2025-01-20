@@ -19,3 +19,4 @@ while 'true':
     a()
     print("thank you master")
     print("Welcome")
+    print("Boss")
