@@ -20,3 +20,4 @@ while 'true':
     print("thank you master")
     print("Welcome")
     print("Boss")
+    hi
